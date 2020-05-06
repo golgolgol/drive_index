@@ -67,7 +67,7 @@ function nav(path) {
 		}
 	}
 	html += `<div class="mdui-toolbar-spacer"></div>
-    <a href="https://github.com/kulokenci/goindex-drive" target="_blank" class="mdui-btn mdui-btn-icon mdui-ripple mdui-ripple-white" mdui-tooltip="{content: 'GoIndex Drive on Github'}">
+    <a href="https://dl3.pushbulletusercontent.com/nWyp46GjOXi6P7AU931CBJb28i1RUMb2/IMG_20181103_160556.jpg" target="_blank" class="mdui-btn mdui-btn-icon mdui-ripple mdui-ripple-white" mdui-tooltip="{content: 'Halloo'}">
       <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 367.2 367.2" style="enable-background:new 0 0 367.2 367.2;" xml:space="preserve">
 <path style="fill:#F55557;" d="M185.6,312.4c0,0-82-48.8-124.8-110.8c-24.8-36-28.4-67.2-21.2-91.6c10.4-35.2,50-70,105.2-49.6
